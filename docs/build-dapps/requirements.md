@@ -83,8 +83,8 @@ sudo apt-get install -y nodejs
 And then test them:
 
 ```bash
-node –-version
-npm –-version
+node --version
+npm --version
 ```
 
 ## Yarn
